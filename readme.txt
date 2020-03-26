@@ -27,7 +27,7 @@ Parser arguments:
 Return: running time and the saving path for results.
 
 2. Model:
-The model is in https://drive.google.com/open?id=1euFHv1Jo_if3FEut4pfX8_Y9ogaDenmr
+The model is in https://drive.google.com/open?id=1EKWivnW2u9Y0PZGFuavXMkvcK8bFG0Hm
 
 3.EDU_results: 
 The folder includes the dehazed images of the test images provided in NTIRE 20 Dehazing Challenge.
