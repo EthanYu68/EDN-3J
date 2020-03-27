@@ -3,7 +3,7 @@ The folder include all the codes, saved models and testing results prepared for 
 
 Proposed network: "Dense ‘EDN’ Dehazing Network" 
 Team name: iPAL_EDN
-Team leader: Mingzhao Yu(ethanyu9668@gmail.com)
+Team leader: Mingzhao Yu(ethanyu@psu.edu)
 Team members:  Venkateswararao Cherukuri, Tiantong Guo, Vishal Monga 
 Time: 03/26/2020
 
@@ -38,5 +38,5 @@ The folder includes the dehazed images of the test images provided in NTIRE 20 D
 The folder includes the test images from NTIRE 20 Dehazing Challenge.
 
 5. utils.py: function codes that can be used through the application.
-6. dense_deep_ensemble_2d6u.py: the network structure for our "EDU" model
+6. dense_deep_3JW.py: the network structure for our "EDU" model
 
